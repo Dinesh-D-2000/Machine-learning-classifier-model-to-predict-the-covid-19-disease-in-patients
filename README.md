@@ -26,30 +26,30 @@ As the WHO has declared the Coronavirus pandemic as a health emergency, research
  <h2>Plots of the Trained neural network model</h2> 
  <p align="center">
   
-  <img  src="https://user-images.githubusercontent.com/109975786/209524851-4913fb78-c0d7-4ed4-a7af-0c95b715a750.png">
+  <img  src="https://user-images.githubusercontent.com/109975786/209524851-4913fb78-c0d7-4ed4-a7af-0c95b715a750.png" width="300" height="300">
   
 <p align="center">Fig 3: Performance of the Trained neural network model </p>
   </p>
   
    <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209524964-2eb9f74f-2004-48b4-88d1-3eeac654d55f.png">
+  <img  src="https://user-images.githubusercontent.com/109975786/209524964-2eb9f74f-2004-48b4-88d1-3eeac654d55f.png" width="300" height="300">
   
 <p align="center">Fig 4: Confusion matrices of the Trained neural network model</p> 
   </p>
    <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209525058-8d4ae561-dac1-42a6-9340-574c1086c191.png">
+  <img  src="https://user-images.githubusercontent.com/109975786/209525058-8d4ae561-dac1-42a6-9340-574c1086c191.png" width="300" height="300">
   
   
 <p align="center">Fig 5: ROC of the Trained neural network model </p>
   </p>
   
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209525994-0d59cb5f-df50-4ab4-8383-97ed7845dacf.png">
+  <img  src="https://user-images.githubusercontent.com/109975786/209525994-0d59cb5f-df50-4ab4-8383-97ed7845dacf.png" width="300" height="300">
   
 <p align="center">Fig 6: Trained neural network model classifies the patient as covid positive</p>
   </p>
   <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209526130-54da2fa3-7f82-4948-ad59-9e0f7e2e027d.png">
+  <img  src="https://user-images.githubusercontent.com/109975786/209526130-54da2fa3-7f82-4948-ad59-9e0f7e2e027d.png" width="300" height="300">
   
 <p align="center">Fig 7: Trained neural network model classifies the patient as covid negative</p>
   </p>
