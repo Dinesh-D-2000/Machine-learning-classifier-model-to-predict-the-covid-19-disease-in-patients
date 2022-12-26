@@ -23,7 +23,7 @@ As the WHO has declared the Coronavirus pandemic as a health emergency, research
 <p align="center">Fig 2: Trained neural network model in MATLAB</p>
   </p>
   
- #Plots of the Trained neural network model 
+ <h2>Plots of the Trained neural network model</h2> 
  <p align="center">
   
   <img  src="https://user-images.githubusercontent.com/109975786/209524851-4913fb78-c0d7-4ed4-a7af-0c95b715a750.png">
