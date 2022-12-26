@@ -10,14 +10,14 @@ As the WHO has declared the Coronavirus pandemic as a health emergency, research
 
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209524605-734023f7-3c2f-486e-8af5-e88a7fcda9ee.JPG">
+  <img  src="https://user-images.githubusercontent.com/109975786/209524605-734023f7-3c2f-486e-8af5-e88a7fcda9ee.JPG" width="400" height="400">>
   
   
 <p align="center">Fig 1: Symptoms and various factors considered for model input</p>
 </p>
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209524725-f38fb066-6f21-4be8-bda2-54e523cf7a64.png" width="400" height="400">
+  <img  src="https://user-images.githubusercontent.com/109975786/209524725-f38fb066-6f21-4be8-bda2-54e523cf7a64.png" >
   
   
 <p align="center">Fig 2: Trained neural network model in MATLAB</p>
