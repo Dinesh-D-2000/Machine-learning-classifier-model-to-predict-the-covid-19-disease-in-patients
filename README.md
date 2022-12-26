@@ -13,14 +13,14 @@ As the WHO has declared the Coronavirus pandemic as a health emergency, research
   <img  src="https://user-images.githubusercontent.com/109975786/209524605-734023f7-3c2f-486e-8af5-e88a7fcda9ee.JPG">
   
   
-Fig 1: Symptoms and various factors considered for model input
+<p align="center">Fig 1: Symptoms and various factors considered for model input</p>
 </p>
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/109975786/209524725-f38fb066-6f21-4be8-bda2-54e523cf7a64.png">
   
   
-Fig 2: Trained neural network model in MATLAB
+<p align="center">Fig 2: Trained neural network model in MATLAB</p>
   </p>
   
  Plots of the Trained neural network model 
@@ -28,28 +28,28 @@ Fig 2: Trained neural network model in MATLAB
   
   <img  src="https://user-images.githubusercontent.com/109975786/209524851-4913fb78-c0d7-4ed4-a7af-0c95b715a750.png">
   
-Fig 3: Performance of the Trained neural network model 
+<p align="center">Fig 3: Performance of the Trained neural network model </p>
   </p>
   
    <p align="center">
   <img  src="https://user-images.githubusercontent.com/109975786/209524964-2eb9f74f-2004-48b4-88d1-3eeac654d55f.png">
   
-Fig 4: Confusion matrices of the Trained neural network model 
+<p align="center">Fig 4: Confusion matrices of the Trained neural network model</p> 
   </p>
    <p align="center">
   <img  src="https://user-images.githubusercontent.com/109975786/209525058-8d4ae561-dac1-42a6-9340-574c1086c191.png">
   
   
-Fig 5: ROC of the Trained neural network model 
+<p align="center">Fig 5: ROC of the Trained neural network model </p>
   </p>
   
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/109975786/209525994-0d59cb5f-df50-4ab4-8383-97ed7845dacf.png">
   
-Fig 6: Trained neural network model classifies the patient as covid positive
+<p align="center">Fig 6: Trained neural network model classifies the patient as covid positive</p>
   </p>
   <p align="center">
   <img  src="https://user-images.githubusercontent.com/109975786/209526130-54da2fa3-7f82-4948-ad59-9e0f7e2e027d.png">
   
-Fig 7: Trained neural network model classifies the patient as covid negative
+<p align="center">Fig 7: Trained neural network model classifies the patient as covid negative</p>
   </p>
