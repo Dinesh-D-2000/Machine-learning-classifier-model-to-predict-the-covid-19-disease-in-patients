@@ -17,7 +17,7 @@ As the WHO has declared the Coronavirus pandemic as a health emergency, research
 </p>
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209524725-f38fb066-6f21-4be8-bda2-54e523cf7a64.png">
+  <img  src="https://user-images.githubusercontent.com/109975786/209524725-f38fb066-6f21-4be8-bda2-54e523cf7a64.png" width="400" height="400">
   
   
 <p align="center">Fig 2: Trained neural network model in MATLAB</p>
@@ -44,12 +44,12 @@ As the WHO has declared the Coronavirus pandemic as a health emergency, research
   </p>
   
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209525994-0d59cb5f-df50-4ab4-8383-97ed7845dacf.png" width="400" height="400">
+  <img  src="https://user-images.githubusercontent.com/109975786/209525994-0d59cb5f-df50-4ab4-8383-97ed7845dacf.png" width="400" height="350">
   
 <p align="center">Fig 6: Trained neural network model classifies the patient as covid positive</p>
   </p>
   <p align="center">
-  <img  src="https://user-images.githubusercontent.com/109975786/209526130-54da2fa3-7f82-4948-ad59-9e0f7e2e027d.png" width="400" height="400">
+  <img  src="https://user-images.githubusercontent.com/109975786/209526130-54da2fa3-7f82-4948-ad59-9e0f7e2e027d.png" width="400" height="350">
   
 <p align="center">Fig 7: Trained neural network model classifies the patient as covid negative</p>
   </p>
