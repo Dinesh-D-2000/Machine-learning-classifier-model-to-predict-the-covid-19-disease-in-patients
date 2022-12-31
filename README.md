@@ -19,7 +19,7 @@ The trained neural network model in MATLAB  is shown below.
  <h2>Plots of the Trained neural network model</h2> 
  <p align="center">
   
-  <img  src="https://user-images.githubusercontent.com/109975786/209524851-4913fb78-c0d7-4ed4-a7af-0c95b715a750.png" width="400" height="220">
+  <img  src="https://user-images.githubusercontent.com/109975786/209524851-4913fb78-c0d7-4ed4-a7af-0c95b715a750.png" width="400" height="250">
   
 <p align="center">Fig 3: Performance of the Trained neural network model </p>
   </p>
