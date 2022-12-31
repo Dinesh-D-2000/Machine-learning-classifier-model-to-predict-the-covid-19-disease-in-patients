@@ -47,4 +47,4 @@
 <p align="center">Fig 7: Trained neural network model classifies the patient as covid negative</p>
   </p>
   <h2>Conclusion</h2>
- <pre>....AI and deep learning play an essential role in COVID-19 cases identification and classification using computer-aided applications, which achieves excellentand accurate results for identifying COVID-19 cases based on known symptoms</pre>
+ AI and deep learning play an essential role in COVID-19 cases identification and classification using computer-aided applications, which achieves excellentand accurate results for identifying COVID-19 cases based on known symptoms
