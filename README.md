@@ -4,14 +4,14 @@
 
    
 <h2>Data collection</h2>
-<pre>    As the WHO has declared the Coronavirus pandemic as a health emergency, researchers have been provided open access to data related to the epidemic. The dataset was collected from kaggle.com and it has 5434 × 21 rows of columns. This dataset contains 20 input variables which are the symptoms in the prediction of covid-19, as well as one target class attribute that defines if covid-19 is found or not.</pre>
+As the WHO has declared the Coronavirus pandemic as a health emergency, researchers have been provided open access to data related to the epidemic. The dataset was collected from kaggle.com and it has 5434 × 21 rows of columns. This dataset contains 20 input variables which are the symptoms in the prediction of covid-19, as well as one target class attribute that defines if covid-19 is found or not.
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/109975786/209524605-734023f7-3c2f-486e-8af5-e88a7fcda9ee.JPG" width="300" height="350"></p>
 <p align="center">Fig 1: Symptoms and various factors considered for model input</p>
 </p>
 
 <h2>Trained Neural Network Model In MATLAB</h2>
-<pre>The trained neural network model in MATLAB  is shown below.</pre>
+The trained neural network model in MATLAB  is shown below.
 <p align="center"><img  src="https://user-images.githubusercontent.com/109975786/209524725-f38fb066-6f21-4be8-bda2-54e523cf7a64.png" ></p>
   <p align="center">Fig 2: Trained neural network model in MATLAB</p>
 
@@ -47,4 +47,4 @@
 <p align="center">Fig 7: Trained neural network model classifies the patient as covid negative</p>
   </p>
   <h2>Conclusion</h2>
- <pre />AI and deep learning play an essential role in COVID-19 cases identification and classification using computer-aided applications, which achieves excellentand accurate results for identifying COVID-19 cases based on known symptoms.
+AI and deep learning play an essential role in COVID-19 cases identification and classification using computer-aided applications, which achieves excellentand accurate results for identifying COVID-19 cases based on known symptoms.
