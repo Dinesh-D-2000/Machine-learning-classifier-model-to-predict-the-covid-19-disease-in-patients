@@ -1,6 +1,6 @@
 <h1>Machine-learning-classifier-model-to-predict-the-covid-19-disease-in-patients</h1>
 <h2>Objective</h2>
-The goal of this project is to deploy a machine learning classifier model using deep neural network to predict the covid-19 disease in patients. The deep neural network model built in Matlab is exported as a simulink model. The trained model is then tested for various inputs in MATLAB live script. This project can be used by the healthcare professional to detect covid-19 in patients and to understand various symptoms that contribute to the disease.
+<pre>    The goal of this project is to deploy a machine learning classifier model using deep neural network to predict the covid-19 disease in patients. The deep neural network model built in Matlab is exported as a simulink model. The trained model is then tested for various inputs in MATLAB live script. This project can be used by the healthcare professional to detect covid-19 in patients and to understand various symptoms that contribute to the disease.</pre>
 
    
 <h2>Data collection</h2>
